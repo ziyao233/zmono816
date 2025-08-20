@@ -1,12 +1,12 @@
 	
 	
 	
-
-  XXX
- X   X
+   XX
+ XX  X
       X
       X
-  XXXX
+  XXXXX
+     X
       X
       X
  X   X

@@ -2,14 +2,14 @@
 	
 	
 
-   XX
-   XX
-   XX
-XXXXXXXX
-XXXXXXXX
-   XX
-   XX
-   XX
+     
+    X
+    X
+    X   
+ XXXXXXX
+    X
+    X
+    X
 
 	
 	

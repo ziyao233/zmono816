@@ -2,15 +2,15 @@
 	
 	
    XX
-  XXX
- X XX
-   XX
-   XX
-   XX
-   XX
-   XX
-   XX
- XXXXXX
+  X X
+ X  X
+    X
+    X
+    X
+    X
+    X
+    X
+ XXXXXXX
 	
 	
 	
